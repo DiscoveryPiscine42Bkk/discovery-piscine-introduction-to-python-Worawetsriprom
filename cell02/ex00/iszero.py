@@ -1,5 +1,5 @@
-num = int(input(กรอกตัวเลข=> ))
+num = int(input("กรอกตัวเลข=> "))
 if num == 0:
     print("This number is equal to zero")
 else :
-    print("")
+    print("This number is different from zero")
