@@ -1,6 +1,6 @@
-password = 31210
-password_input = input()
-if password_input == password:
+pwinput = input("")
+password = "1212312121"
+if pwinput == password :
     print("ACCESS GRANTED")
 else:
-    print("ACCESS DENIED")
+    print("ACCESS DENIED") 
